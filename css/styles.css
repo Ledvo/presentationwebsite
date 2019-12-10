@@ -12,6 +12,7 @@ font-family: "courier";
 }
 h1, h2 {
 text-align: center;
+margin: 0.1vw 0.1vw;
 }
 h1 {
 font-size: 5em;
@@ -23,7 +24,7 @@ img {
 display: flex;
 padding: 20px;
 margin: 0 auto;
-border-radius: 50%;
+border-radius: 40%;
 }
 h3 {
 color: rgb(49, 165, 124);
